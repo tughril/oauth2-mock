@@ -1,0 +1,10 @@
+{
+  "name": "oauth2-mock",
+  "version": "1.0.0",
+  "description": "oauth2 mock server with easy configuration",
+  "main": "index.js",
+  "repository": "git@github.com:tughril/oauth2-mock.git",
+  "author": "tughril",
+  "license": "MIT",
+  "private": false
+}
